@@ -61,8 +61,8 @@ From here you can share this to your socials and there is a little analysis of y
 
 
 # Diagrams
-![<img width="1600" height="423" alt="image" src="https://github.com/user-attachments/assets/062cfd64-70eb-49a6-aafc-c9f528568a4a" />
-]()
+![<img width="999" height="261" alt="image" src="https://github.com/user-attachments/assets/0e3cc553-290d-4385-91cc-143c6c6e7e58" />]
+(Provided above image is the workflow diagram of my project, the project involves languages such as HTML, CSS , JS - Frameworks are React and tailwind css)
  
 Made with ❤️ at TinkerHub Useless Projects 
 
