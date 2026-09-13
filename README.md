@@ -61,7 +61,7 @@ From here you can share this to your socials and there is a little analysis of y
 
 
 # Diagrams
-![<img width="1600" height="423" alt="human_captcha_workflow_flow (1)" src="https://github.com/user-attachments/assets/cb149624-e06c-4ba0-8cd8-d4286eed1209" />
+![<img width="1600" height="423" alt="image" src="https://github.com/user-attachments/assets/062cfd64-70eb-49a6-aafc-c9f528568a4a" />
 ]()
  
 Made with ❤️ at TinkerHub Useless Projects 
